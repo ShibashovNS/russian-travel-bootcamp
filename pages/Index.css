@@ -1,4 +1,4 @@
-/*подключен Нормалайз + Шрифты*/
+/*подключен Нормалайз + Шрифты_*/
 @import url(../Vendor/normalize.css);
 @import url(../Vendor/font/inter.css);
 
@@ -68,3 +68,4 @@
 @import url(../Blocks/footer/__menu/footer__menu.css);
 @import url(../Blocks/footer/__author/footer__author.css);
 @import url(../Blocks/footer/__link/footer__link.css);
+@import url(../);
