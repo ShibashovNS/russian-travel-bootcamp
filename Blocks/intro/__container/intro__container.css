@@ -1,5 +1,12 @@
 .intro__container {
-  max-width: calc((100%)  * (690/984)); /*добавил элемент, чтобы спозиционировать текст внутри блока */
+  max-width: calc((100%)  * (690/984)); 
+}
+
+
+@media screen and (max-width: 1279px) {
+  .intro__container {
+    max-width: calc(100% - (286px - 48px));
+  }
 }
 
 
