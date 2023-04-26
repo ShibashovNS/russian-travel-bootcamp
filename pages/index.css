@@ -1,6 +1,6 @@
 /*подключен Нормалайз + Шрифты*/
-@import url(../Vendor/normalize.css);
-@import url(../Vendor/font/inter.css);
+@import url(../vendor/normalize.css);
+@import url(../vendor/font/inter.css);
 
 
 /*Page*/
